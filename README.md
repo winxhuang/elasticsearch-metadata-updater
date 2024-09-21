@@ -3,8 +3,9 @@ elasticsearch元数据修改器，直接修改持久化到文件系统的元数�
 
 # 用法
 ## 运行
-{es.home.path}/jdk/bin/java -Des.path.home={es.home.path} -jar es-state-metadata-updater.jar
-![img.png](src/main/resources/images/img.png)
+** {es.home.path}/jdk/bin/java -Des.path.home={es.home.path} -jar es-state-metadata-updater.jar **
+
+![img.png](src/main/resources/images/img_0.png)
 
 ## 命令
 ![img.png](src/main/resources/images/img.png)
